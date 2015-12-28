@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to="angular_gwt_sub">
+  <!-- Inherit our applications main module.                      -->
+  <inherits name='com.thorbenegberts.angular_gwt_sub' />
+
+  <!-- Specify the path to any remote services.                   -->
+  <servlet path="/angular_gwt_sub/greet" class="com.thorbenegberts.server.GreetingServiceImpl" />
+
+</module>
