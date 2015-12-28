@@ -30,4 +30,4 @@ mvn gwt:run
 
 Visit [http://localhost:8000/app/](http://localhost:8000/app/)
 
-![.](http://i.imgur.com/JLiI5Nx.gifv)
+![.](http://i.imgur.com/JLiI5Nx.gif)
